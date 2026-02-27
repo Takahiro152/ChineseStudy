@@ -10058,5 +10058,507 @@ window.WORD_BANK = {
       "pinyin": "fēn shǒu",
       "meaning": "別れる"
     }
+  ],
+  "推し活": [
+    {
+      "hanzi": "推し活",
+      "pinyin": "tuī shì huó dòng",
+      "meaning": "推し活"
+    },
+    {
+      "hanzi": "追星",
+      "pinyin": "zhuī xīng",
+      "meaning": "推し活する"
+    },
+    {
+      "hanzi": "粉丝",
+      "pinyin": "fěn sī",
+      "meaning": "ファン"
+    },
+    {
+      "hanzi": "粉丝团",
+      "pinyin": "fěn sī tuán",
+      "meaning": "ファンクラブ"
+    },
+    {
+      "hanzi": "粉圈",
+      "pinyin": "fěn quān",
+      "meaning": "ファンダム界隈"
+    },
+    {
+      "hanzi": "饭圈",
+      "pinyin": "fàn quān",
+      "meaning": "ファンダムコミュニティ"
+    },
+    {
+      "hanzi": "爱豆",
+      "pinyin": "ài dòu",
+      "meaning": "アイドル（推し）"
+    },
+    {
+      "hanzi": "偶像",
+      "pinyin": "ǒu xiàng",
+      "meaning": "アイドル"
+    },
+    {
+      "hanzi": "本命",
+      "pinyin": "běn mìng",
+      "meaning": "最推し"
+    },
+    {
+      "hanzi": "担",
+      "pinyin": "dān",
+      "meaning": "担当（推し）"
+    },
+    {
+      "hanzi": "单推",
+      "pinyin": "dān tuī",
+      "meaning": "単推し"
+    },
+    {
+      "hanzi": "团推",
+      "pinyin": "tuán tuī",
+      "meaning": "箱推し"
+    },
+    {
+      "hanzi": "路人粉",
+      "pinyin": "lù rén fěn",
+      "meaning": "ライトファン"
+    },
+    {
+      "hanzi": "死忠粉",
+      "pinyin": "sǐ zhōng fěn",
+      "meaning": "ガチファン"
+    },
+    {
+      "hanzi": "站姐",
+      "pinyin": "zhàn jiě",
+      "meaning": "ファンサイト運営女性"
+    },
+    {
+      "hanzi": "站哥",
+      "pinyin": "zhàn gē",
+      "meaning": "ファンサイト運営男性"
+    },
+    {
+      "hanzi": "应援",
+      "pinyin": "yìng yuán",
+      "meaning": "応援する"
+    },
+    {
+      "hanzi": "应援色",
+      "pinyin": "yìng yuán sè",
+      "meaning": "メンバーカラー"
+    },
+    {
+      "hanzi": "应援棒",
+      "pinyin": "yìng yuán bàng",
+      "meaning": "ペンライト"
+    },
+    {
+      "hanzi": "手幅",
+      "pinyin": "shǒu fú",
+      "meaning": "うちわ（推し活）"
+    },
+    {
+      "hanzi": "打call",
+      "pinyin": "dǎ call",
+      "meaning": "コールを入れる"
+    },
+    {
+      "hanzi": "打投",
+      "pinyin": "dǎ tóu",
+      "meaning": "投票応援する"
+    },
+    {
+      "hanzi": "投票",
+      "pinyin": "tóu piào",
+      "meaning": "投票"
+    },
+    {
+      "hanzi": "集资",
+      "pinyin": "jí zī",
+      "meaning": "資金集め"
+    },
+    {
+      "hanzi": "控评",
+      "pinyin": "kòng píng",
+      "meaning": "コメント統制"
+    },
+    {
+      "hanzi": "刷榜",
+      "pinyin": "shuā bǎng",
+      "meaning": "ランキングを回す"
+    },
+    {
+      "hanzi": "冲榜",
+      "pinyin": "chōng bǎng",
+      "meaning": "ランキング上位を狙う"
+    },
+    {
+      "hanzi": "空降",
+      "pinyin": "kōng jiàng",
+      "meaning": "突然登場する"
+    },
+    {
+      "hanzi": "官宣",
+      "pinyin": "guān xuān",
+      "meaning": "公式発表"
+    },
+    {
+      "hanzi": "行程",
+      "pinyin": "xíng chéng",
+      "meaning": "スケジュール"
+    },
+    {
+      "hanzi": "通告",
+      "pinyin": "tōng gào",
+      "meaning": "出演予定"
+    },
+    {
+      "hanzi": "活动",
+      "pinyin": "huó dòng",
+      "meaning": "イベント"
+    },
+    {
+      "hanzi": "路演",
+      "pinyin": "lù yǎn",
+      "meaning": "PRイベント"
+    },
+    {
+      "hanzi": "见面会",
+      "pinyin": "jiàn miàn huì",
+      "meaning": "ファンミ"
+    },
+    {
+      "hanzi": "签售",
+      "pinyin": "qiān shòu",
+      "meaning": "サイン会"
+    },
+    {
+      "hanzi": "握手会",
+      "pinyin": "wò shǒu huì",
+      "meaning": "握手会"
+    },
+    {
+      "hanzi": "演唱会",
+      "pinyin": "yǎn chàng huì",
+      "meaning": "コンサート"
+    },
+    {
+      "hanzi": "巡演",
+      "pinyin": "xún yǎn",
+      "meaning": "ツアー"
+    },
+    {
+      "hanzi": "首场",
+      "pinyin": "shǒu chǎng",
+      "meaning": "初日公演"
+    },
+    {
+      "hanzi": "终场",
+      "pinyin": "zhōng chǎng",
+      "meaning": "千秋楽"
+    },
+    {
+      "hanzi": "抢票",
+      "pinyin": "qiǎng piào",
+      "meaning": "チケット争奪"
+    },
+    {
+      "hanzi": "门票",
+      "pinyin": "mén piào",
+      "meaning": "チケット"
+    },
+    {
+      "hanzi": "黄牛",
+      "pinyin": "huáng niú",
+      "meaning": "転売屋"
+    },
+    {
+      "hanzi": "排队",
+      "pinyin": "pái duì",
+      "meaning": "並ぶ"
+    },
+    {
+      "hanzi": "进场",
+      "pinyin": "jìn chǎng",
+      "meaning": "入場"
+    },
+    {
+      "hanzi": "应援位",
+      "pinyin": "yìng yuán wèi",
+      "meaning": "応援席"
+    },
+    {
+      "hanzi": "前排",
+      "pinyin": "qián pái",
+      "meaning": "前方席"
+    },
+    {
+      "hanzi": "后排",
+      "pinyin": "hòu pái",
+      "meaning": "後方席"
+    },
+    {
+      "hanzi": "看台",
+      "pinyin": "kàn tái",
+      "meaning": "スタンド席"
+    },
+    {
+      "hanzi": "内场",
+      "pinyin": "nèi chǎng",
+      "meaning": "アリーナ"
+    },
+    {
+      "hanzi": "返图",
+      "pinyin": "fǎn tú",
+      "meaning": "写真共有"
+    },
+    {
+      "hanzi": "生图",
+      "pinyin": "shēng tú",
+      "meaning": "無加工写真"
+    },
+    {
+      "hanzi": "精修",
+      "pinyin": "jīng xiū",
+      "meaning": "レタッチ写真"
+    },
+    {
+      "hanzi": "神图",
+      "pinyin": "shén tú",
+      "meaning": "神写真"
+    },
+    {
+      "hanzi": "饭拍",
+      "pinyin": "fàn pāi",
+      "meaning": "ファン撮影"
+    },
+    {
+      "hanzi": "直拍",
+      "pinyin": "zhí pāi",
+      "meaning": "個人固定カメラ動画"
+    },
+    {
+      "hanzi": "安利",
+      "pinyin": "ān lì",
+      "meaning": "布教する"
+    },
+    {
+      "hanzi": "入坑",
+      "pinyin": "rù kēng",
+      "meaning": "沼に入る"
+    },
+    {
+      "hanzi": "出坑",
+      "pinyin": "chū kēng",
+      "meaning": "推し活をやめる"
+    },
+    {
+      "hanzi": "回坑",
+      "pinyin": "huí kēng",
+      "meaning": "推し活に戻る"
+    },
+    {
+      "hanzi": "嗑",
+      "pinyin": "kē",
+      "meaning": "推しカプを楽しむ"
+    },
+    {
+      "hanzi": "嗑CP",
+      "pinyin": "kē CP",
+      "meaning": "カップリング推し"
+    },
+    {
+      "hanzi": "官配",
+      "pinyin": "guān pèi",
+      "meaning": "公式カップリング"
+    },
+    {
+      "hanzi": "拉郎",
+      "pinyin": "lā láng",
+      "meaning": "非公式カプを作る"
+    },
+    {
+      "hanzi": "同人",
+      "pinyin": "tóng rén",
+      "meaning": "ファン創作"
+    },
+    {
+      "hanzi": "周边",
+      "pinyin": "zhōu biān",
+      "meaning": "グッズ"
+    },
+    {
+      "hanzi": "吧唧",
+      "pinyin": "ba jī",
+      "meaning": "缶バッジ"
+    },
+    {
+      "hanzi": "立牌",
+      "pinyin": "lì pái",
+      "meaning": "アクリルスタンド"
+    },
+    {
+      "hanzi": "挂件",
+      "pinyin": "guà jiàn",
+      "meaning": "キーホルダー"
+    },
+    {
+      "hanzi": "钥匙扣",
+      "pinyin": "yào shi kòu",
+      "meaning": "キーチェーン"
+    },
+    {
+      "hanzi": "海报",
+      "pinyin": "hǎi bào",
+      "meaning": "ポスター"
+    },
+    {
+      "hanzi": "写真集",
+      "pinyin": "xiě zhēn jí",
+      "meaning": "写真集"
+    },
+    {
+      "hanzi": "小卡",
+      "pinyin": "xiǎo kǎ",
+      "meaning": "トレカ"
+    },
+    {
+      "hanzi": "换卡",
+      "pinyin": "huàn kǎ",
+      "meaning": "トレカ交換"
+    },
+    {
+      "hanzi": "拼单",
+      "pinyin": "pīn dān",
+      "meaning": "共同購入"
+    },
+    {
+      "hanzi": "代购",
+      "pinyin": "dài gòu",
+      "meaning": "代理購入"
+    },
+    {
+      "hanzi": "开箱",
+      "pinyin": "kāi xiāng",
+      "meaning": "開封する"
+    },
+    {
+      "hanzi": "抽选",
+      "pinyin": "chōu xuǎn",
+      "meaning": "抽選"
+    },
+    {
+      "hanzi": "中签",
+      "pinyin": "zhòng qiān",
+      "meaning": "当選する"
+    },
+    {
+      "hanzi": "落选",
+      "pinyin": "luò xuǎn",
+      "meaning": "落選する"
+    },
+    {
+      "hanzi": "应援广告",
+      "pinyin": "yìng yuán guǎng gào",
+      "meaning": "応援広告"
+    },
+    {
+      "hanzi": "地铁应援",
+      "pinyin": "dì tiě yìng yuán",
+      "meaning": "地下鉄広告応援"
+    },
+    {
+      "hanzi": "生日应援",
+      "pinyin": "shēng rì yìng yuán",
+      "meaning": "誕生日応援"
+    },
+    {
+      "hanzi": "生日会",
+      "pinyin": "shēng rì huì",
+      "meaning": "生誕祭"
+    },
+    {
+      "hanzi": "打榜",
+      "pinyin": "dǎ bǎng",
+      "meaning": "チャート投票する"
+    },
+    {
+      "hanzi": "超话",
+      "pinyin": "chāo huà",
+      "meaning": "Weiboファン掲示板"
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shù jù",
+      "meaning": "指標・数字"
+    },
+    {
+      "hanzi": "做数据",
+      "pinyin": "zuò shù jù",
+      "meaning": "再生数等を回す"
+    },
+    {
+      "hanzi": "热搜",
+      "pinyin": "rè sōu",
+      "meaning": "トレンド入り"
+    },
+    {
+      "hanzi": "塌房",
+      "pinyin": "tā fáng",
+      "meaning": "推しの炎上"
+    },
+    {
+      "hanzi": "翻车",
+      "pinyin": "fān chē",
+      "meaning": "やらかす"
+    },
+    {
+      "hanzi": "脱粉",
+      "pinyin": "tuō fěn",
+      "meaning": "ファンをやめる"
+    },
+    {
+      "hanzi": "回踩",
+      "pinyin": "huí cǎi",
+      "meaning": "元ファンが叩く"
+    },
+    {
+      "hanzi": "唯粉",
+      "pinyin": "wéi fěn",
+      "meaning": "個人推しファン"
+    },
+    {
+      "hanzi": "团粉",
+      "pinyin": "tuán fěn",
+      "meaning": "箱推しファン"
+    },
+    {
+      "hanzi": "CP粉",
+      "pinyin": "CP fěn",
+      "meaning": "カプ推しファン"
+    },
+    {
+      "hanzi": "事业粉",
+      "pinyin": "shì yè fěn",
+      "meaning": "活動重視ファン"
+    },
+    {
+      "hanzi": "妈粉",
+      "pinyin": "mā fěn",
+      "meaning": "保護者目線ファン"
+    },
+    {
+      "hanzi": "女友粉",
+      "pinyin": "nǚ yǒu fěn",
+      "meaning": "恋人気分ファン"
+    },
+    {
+      "hanzi": "老公粉",
+      "pinyin": "lǎo gōng fěn",
+      "meaning": "推しを夫呼びするファン"
+    }
   ]
 };
