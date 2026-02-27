@@ -1,0 +1,97 @@
+:root {
+  color-scheme: light;
+  font-family: "Hiragino Sans", "Yu Gothic", sans-serif;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(135deg, #fdf6e3 0%, #e8f5e9 100%);
+}
+
+.app {
+  width: min(760px, 92vw);
+  background: #ffffffcc;
+  border: 1px solid #d7e3d5;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 10px 24px #00000014;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 1.4rem;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+button {
+  border: 0;
+  border-radius: 10px;
+  padding: 10px 14px;
+  font-size: 1rem;
+  cursor: pointer;
+  color: white;
+  background: #2e7d32;
+}
+
+button:disabled {
+  background: #9e9e9e;
+  cursor: not-allowed;
+}
+
+input,
+select {
+  margin-left: 6px;
+  padding: 6px;
+  border-radius: 8px;
+  border: 1px solid #bdbdbd;
+  background: #fff;
+}
+
+input {
+  width: 64px;
+}
+
+.category-info {
+  margin: 0 0 16px;
+  color: #39523d;
+  font-weight: 600;
+}
+
+.card {
+  border: 1px dashed #9ccc65;
+  border-radius: 12px;
+  padding: 20px;
+  background: #f9fff7;
+}
+
+.label {
+  margin: 0 0 8px;
+  color: #4e5f4f;
+}
+
+.hanzi {
+  margin: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+}
+
+.pinyin {
+  margin: 8px 0 0;
+  font-size: 1.2rem;
+  color: #2d3f2f;
+}
+
+.meaning {
+  margin: 6px 0 0;
+  color: #4f4f4f;
+}
